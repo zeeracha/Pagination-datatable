@@ -1,3 +1,16 @@
+# Pagination datatable
+Pagination datatable, which is to divide the load and display the data into pages and has a button that allows you to select the desired page number using the react-data-table-component lib. The data used to display is from the API of www.mecallapi.com. This clip focuses on the Front-End only.
+
+## React Data Table Component
+https://react-data-table-component.netlify.app/?path=/docs/getting-started-intro--page
+
+## Me Live Code API
+https://www.melivecode.com/
+
+## AJAX and APIs
+https://reactjs.org/docs/faq-ajax.html
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
